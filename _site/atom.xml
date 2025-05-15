@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Delamm</title>
-    <description>Otro blog más de un Lammer</description>
+    <description>Un blog y portfolio personal</description>
     <link>http://localhost:8000</link>
     <atom:link href="http://localhost:8000/feed.xml" rel="self" type="application/rss+xml" />
     <author>
       <name>Delamm</name>
       <email>dylangoonzalez@outlook.es</email>
-      <uri>https://ashishchaudhary.in/hacker-blog</uri>
+      <uri>https://delamm.github.io/</uri>
     </author>
     
       <item>
